@@ -6,7 +6,7 @@ My name is Nilton, Currently learning the Javascript stack, React and NodeJS.
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/nilton-izaguirres-51558a1b4/">
+<a href="https://www.linkedin.com/in/nilton-izaguirres">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
