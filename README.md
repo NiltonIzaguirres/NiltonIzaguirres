@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="300" src="./assets/Coding_SVG.svg">
 
-My name is Nilton, Currently learning the Javascript stack, React and NodeJS.
+My name is Nilton, Currently learning C.
 
 ### Where to find me:
 
