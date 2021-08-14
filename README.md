@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="300" src="./assets/Coding_SVG.svg">
 
-My name is Nilton, Currently learning C.
+My name is Nilton.
 
 ### Where to find me:
 
