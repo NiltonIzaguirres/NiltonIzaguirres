@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="300" src="./assets/Coding_SVG.svg">
 
-My name is Nilton.
+My name is Nilton, I am currently specializing in JavaScript, I am taking the Rocketseat course, the ignite course.
 
 ### Where to find me:
 
