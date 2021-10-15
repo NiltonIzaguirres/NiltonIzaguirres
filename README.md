@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="300" src="./assets/Coding_SVG.svg">
 
-My name is Nilton, I am currently specializing in JavaScript, I am taking the Rocketseat course, the ignite course.
+My name is nilton, I am passionate about technology, I am currently studying computer development and networking.
 
 ### Where to find me:
 
@@ -26,6 +26,7 @@ My name is Nilton, I am currently specializing in JavaScript, I am taking the Ro
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js"/></code>
 </section>
 
 **Utilities**
@@ -41,6 +42,8 @@ My name is Nilton, I am currently specializing in JavaScript, I am taking the Ro
   <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 </section>
+
+<br>
 
 [![Nilton's github stats](https://github-readme-stats.vercel.app/api?username=niltonizaguirres&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niltonizaguirres/github-readme-stats)
 
