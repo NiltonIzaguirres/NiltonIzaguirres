@@ -1,10 +1,35 @@
-<h1 align="center" >Hi, nice to meet you 👋</h1>
+<h1 align="center" >
+  Hi, nice to meet you <img width="50" src="./assets/hello.gif">
+</h1>
+
+```js
+const WhoAmI = {
+  user: "Nilton Izaguirres",
+  role: "full-stack",
+  current_edu: "Rocketseat",
+  nationality: 'Brazilian',
+};
+	
+function getCurrentCity() {
+  return {
+    city: "Viamão",
+    state: "RS",
+    country: "Brazil",
+  };
+}
+	
+function Ambitions() {
+	travelToTheUnitedStates();
+	travelToTheJapan();
+} 
+```
 
 <img align="right" width="250" height="300" src="./assets/Coding_SVG.svg">
 
-My name is nilton, I am passionate about technology, I am currently studying computer development and networking.
+<h2><img width="50" src="./assets/dog.gif"> A little more about me...</h2>
 
-### Where to find me:
+
+### **Where to find me:**
 
 <a href="https://www.linkedin.com/in/nilton-izaguirres">
   <code><img alt="My linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></code>
@@ -14,9 +39,10 @@ My name is nilton, I am passionate about technology, I am currently studying com
   <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" /></code>
 </a>
 
-### Languages and Tools:
 
-**Application and Data**
+### **Languages and Tools:**
+
+Application and Data
 
 <section align="left">
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -29,14 +55,14 @@ My name is nilton, I am passionate about technology, I am currently studying com
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js"/></code>
 </section>
 
-**Utilities**
+Utilities
 
 <section align="left">
   <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
   <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 </section>
 
-**DevOps**
+DevOps
 
 <section align="left">
   <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
