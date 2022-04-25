@@ -6,7 +6,7 @@
 const WhoAmI = {
   user: "Nilton Izaguirres",
   role: "full-stack",
-  current_edu: "Rocketseat",
+  current_edu: ["Rocketseat", "Uniritter"],
   nationality: 'Brazilian',
 };
 	
