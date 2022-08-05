@@ -12,8 +12,8 @@ const WhoAmI = {
 	
 function getCurrentCity() {
   return {
-    city: "Viamão",
-    state: "RS",
+    city: "Florianópolis",
+    state: "SC",
     country: "Brazil",
   };
 }
